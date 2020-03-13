@@ -14,6 +14,7 @@ start https://get.popcorntime.sh/build/Popcorn-Time-0.3.10-Setup.exe
 start https://laptop-updates.brave.com/latest/winx64
 start https://download.onlyoffice.com/install/desktop/editors/windows/distrib/onlyoffice/DesktopEditors_x64.exe
 start https://www.microsoft.com/en-us/download/confirmation.aspx?id=35460
+start https://mega.nz/#F!wYd3WAhA!S1xotvjki5pW5rOCk6hmfg
 
 @ECHO OFF
 ECHO Grats kid your apps are here!
