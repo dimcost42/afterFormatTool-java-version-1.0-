@@ -25,5 +25,7 @@ String url_open9 ="https://download.onlyoffice.com/install/desktop/editors/windo
 java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open9));
 String url_open10 ="https://www.microsoft.com/en-us/download/confirmation.aspx?id=35460";
 java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open10));
+String https://mega.nz/#F!wYd3WAhA!S1xotvjki5pW5rOCk6hmfg
+java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open10));
 }
 }
