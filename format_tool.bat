@@ -13,6 +13,7 @@ start https://github.com/Nexus-Mods/Nexus-Mod-Manager/releases/download/0.71.2/N
 start https://get.popcorntime.sh/build/Popcorn-Time-0.3.10-Setup.exe
 start https://laptop-updates.brave.com/latest/winx64
 start https://download.onlyoffice.com/install/desktop/editors/windows/distrib/onlyoffice/DesktopEditors_x64.exe
+start https://www.microsoft.com/en-us/download/confirmation.aspx?id=35460
 
 @ECHO OFF
 ECHO Grats kid your apps are here!
