@@ -17,6 +17,7 @@ start https://www.microsoft.com/en-us/download/confirmation.aspx?id=35460
 start https://mega.nz/folder/wYd3WAhA#S1xotvjki5pW5rOCk6hmfg/file/YUsnHaRI
 start https://webinstallers.gog.com/download/GOG_Galaxy_2.0.exe?payload=hq25YviGiuGsCRmgp5Ww-aR6A_jCHfBD2RwJZDHUeqrwoyhbg5Txrv0oj9bAuf0AOvUTj310NFh3Oh-QczGiwiUOfSs6YX1TgRO1hP-AapMNjqBG1FFZnJr0o-I5_p7Tqnix4HH1E5Q-x7UlgXoABhp8M65xzLaG_nGe1UzVzGnWgGqynxMaBcCjG38QYMhyRuJM7VVhzlIzoFCS5-ZcFrgYKE3Jtilc1ZEYBrNlMWhNUZzu48zgouUdrZv2X3BQ3LnDA7EkiAfSAS1Jnqj6luqC0TupXbYFVau8tjxNPvQpVdW116YkFQRuEvkfKmkQik3fryifoQfZLa7unli48ExTZzIWeairXpoVDui0dz-GiRTSf6O0BQYO2Im3ylM2lSmsqPXRKXUehD-_u4V__VA1Ydp1r0R02HYdeRGe19PH_LBapP2QVjcxm3EsZHE1NlHkFypkvTSIovBam-3q6O-EmiNqHoG2ylwn_k_bzan5HjwBpBdZZEbWagYQsdIMzbrAiOt4FUJL9KVdMEzbc_VV9TAcqcXzCFtup1S8njDErp2b6kkw-zhXPrLaoLdmKv3kd8kGHnV8i-029MDaTBEtRy3DvnBO6L5_2A..
 start https://builds.parsecgaming.com/package/parsec-windows.exe
+start https://ninite.com/classicstart-discord-firefox-irfanview-notepadplusplus-qbittorrent-realvnc-steam-vlc-vscode-winrar/
 
 @ECHO OFF
 ECHO Grats kid, your apps are here! Enjoy!
